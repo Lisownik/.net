@@ -1,0 +1,10 @@
+C:\Users\czehy\source\repos\FormsyPierwszyProjekt\FormsyPierwszyProjekt\bin\Debug\FormsyPierwszyProjekt.exe.config
+C:\Users\czehy\source\repos\FormsyPierwszyProjekt\FormsyPierwszyProjekt\bin\Debug\FormsyPierwszyProjekt.exe
+C:\Users\czehy\source\repos\FormsyPierwszyProjekt\FormsyPierwszyProjekt\bin\Debug\FormsyPierwszyProjekt.pdb
+C:\Users\czehy\source\repos\FormsyPierwszyProjekt\FormsyPierwszyProjekt\obj\Debug\FormsyPierwszyProjekt.csproj.AssemblyReference.cache
+C:\Users\czehy\source\repos\FormsyPierwszyProjekt\FormsyPierwszyProjekt\obj\Debug\FormsyPierwszyProjekt.Form1.resources
+C:\Users\czehy\source\repos\FormsyPierwszyProjekt\FormsyPierwszyProjekt\obj\Debug\FormsyPierwszyProjekt.Properties.Resources.resources
+C:\Users\czehy\source\repos\FormsyPierwszyProjekt\FormsyPierwszyProjekt\obj\Debug\FormsyPierwszyProjekt.csproj.GenerateResource.cache
+C:\Users\czehy\source\repos\FormsyPierwszyProjekt\FormsyPierwszyProjekt\obj\Debug\FormsyPierwszyProjekt.csproj.CoreCompileInputs.cache
+C:\Users\czehy\source\repos\FormsyPierwszyProjekt\FormsyPierwszyProjekt\obj\Debug\FormsyPierwszyProjekt.exe
+C:\Users\czehy\source\repos\FormsyPierwszyProjekt\FormsyPierwszyProjekt\obj\Debug\FormsyPierwszyProjekt.pdb
